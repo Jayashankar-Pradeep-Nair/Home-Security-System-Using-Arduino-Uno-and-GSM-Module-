@@ -2,4 +2,5 @@
 
 Read Project Report for Corcuit diagram and connections 
 
-GSM module can be sawppwed for differnt one if needed
+GSM module can be swapped for differnt one if needed
+
